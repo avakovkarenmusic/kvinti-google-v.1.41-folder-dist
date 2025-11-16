@@ -1,0 +1,5 @@
+{
+  "name": "kvinti google v1.41",
+  "description": "A simple two-player board game where players take turns moving a single piece one square horizontally or vertically on a 7x7 grid.",
+  "requestFramePermissions": []
+}
